@@ -1,8 +1,10 @@
 ---
-layout: post
-title: "linux exam 풀이"
-subtitle: "[exam]"
-Created: Jul 20, 2020 2:35 PM
+title : "linux exam 풀이"
+
+catagories:
+   - Blog
+tags:
+   - Blog
 ---
 
 ```
@@ -64,7 +66,6 @@ web : 192.168.56.104
 간접와일드카드맵으로 마운트하세요.
 ```
 
----
 
 # * 구성 전 숙지사항
 
