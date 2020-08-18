@@ -5,22 +5,17 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
-title                    : 
-# title                    : "Dev.Hundred"
+title                    : "Jiyoon's techblog"
 title_separator          : "-"
-name                     : 
-# name                     : "Junho Baik"
-description              : 
-# description              : "A personal web for Junho Baik"
-url                      : 
-# url                      : "https://junhobaik.github.io"
+name                     : "Jiyoon Lee"
+description              : "become Cloud Infra Enginner !"
+url                      : "https://ljy920521.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : 
-# repository               : "junhobaik/junhobaik.github.io"
+repository               : "ljy920521/ljy920521.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -93,14 +88,14 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Jiyoon Lee"
   # name             : "Junho Baik"
   avatar           : 
   # avatar           : "/assets/images/profile.png"
-  bio              : 
+  bio              : "Student"
   # bio              : "Junior Front-End Web Developer"
   location         : "Korea"
-  email            : 
+  email            : "jy_0521@nave.com"
   # email            : "junhobaik@gmail.com"
   uri              :
   home             : "#" # null (default), "absolute or relative url to link to author home"
@@ -110,7 +105,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "ljy920521"
   # github           : "junhobaik"
   gitlab           :
   google_plus      :
